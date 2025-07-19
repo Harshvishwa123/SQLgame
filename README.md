@@ -1,5 +1,5 @@
 
-**[▶️ Play SQL Police Detective Game Now!](https://claude.ai/public/artifacts/c90b8392-3372-4c95-aa71-426d28c3466a)**
+**[▶️ Play SQL Police Detective Game Now!](https://public/artifacts/c90b8392-3372-4c95-aa71-426d28c3466a)**
 
 # SQL Police Detective Game 🚔
 
